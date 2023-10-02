@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bestsellers-app/static/css/main.eaa4b5f1.css",
+    "main.js": "/bestsellers-app/static/js/main.e0b1b95f.js",
+    "static/media/book-4.jpg": "/bestsellers-app/static/media/book-4.4515e7e44fe6c48c8b51.jpg",
+    "static/media/book-3.jpg": "/bestsellers-app/static/media/book-3.1bec2c7952270834b828.jpg",
+    "static/media/book-1.jpg": "/bestsellers-app/static/media/book-1.6a30d5e5472288f17dbc.jpg",
+    "index.html": "/bestsellers-app/index.html",
+    "main.eaa4b5f1.css.map": "/bestsellers-app/static/css/main.eaa4b5f1.css.map",
+    "main.e0b1b95f.js.map": "/bestsellers-app/static/js/main.e0b1b95f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaa4b5f1.css",
+    "static/js/main.e0b1b95f.js"
+  ]
+}
